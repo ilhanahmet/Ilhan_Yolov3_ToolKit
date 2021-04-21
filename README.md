@@ -1,9 +1,4 @@
-
-
-
-
 # Ilhan_Yolov3_Detect_Toolkit
-
 
 
 ## Requirements for using the program
@@ -35,7 +30,7 @@
 <p align="center"><h1>Detect on Selected Video</h1></p>
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/63366100/115620104-6c293e80-a2fd-11eb-9a1d-a183cf236cf6.png"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/63366100/115620222-92e77500-a2fd-11eb-98f0-d0eac07e6128.png"  title="hover text">
 </p>
 
  
