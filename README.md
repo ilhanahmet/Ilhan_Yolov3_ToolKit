@@ -1,4 +1,6 @@
 
+
+
 # Ilhan_Yolov3_Detect_Toolkit
 
 
@@ -16,7 +18,7 @@
 <p align="center"><h1>Define Locations
 </h1></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/115584573-8b12db00-a2d3-11eb-9015-7fc3de39d172.PNG"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/63366100/115619784-02a93000-a2fd-11eb-9ec3-8a927c8d5cdf.png"  title="hover text">
 </p>
 
 
@@ -25,7 +27,7 @@
 
 <p align="center"><h1>Detect on Selected Image</h1></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/115584805-c0b7c400-a2d3-11eb-8506-cf0c89e0af42.PNG"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/63366100/115619919-2e2c1a80-a2fd-11eb-9155-c48a4454ae51.png" title="hover text">
 </p>
 
 
