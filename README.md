@@ -1,3 +1,4 @@
+
 # Ilhan_Yolov3_Detect_Toolkit
 
 
@@ -8,7 +9,7 @@
 
 <p align="center"><h1>Main Page</h1></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/115584156-3a9b7d80-a2d3-11eb-9083-d2b9186d91da.PNG"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/63366100/115612210-aee61900-a2f3-11eb-9e76-64318c73264f.jpg"  title="hover text">
 </p>
 
 <p align="center"><h1>Define Locations
