@@ -1,6 +1,7 @@
 
 
 
+
 # Ilhan_Yolov3_Detect_Toolkit
 
 
@@ -34,7 +35,7 @@
 <p align="center"><h1>Detect on Selected Video</h1></p>
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/82450697/115584928-da590b80-a2d3-11eb-9127-8f68a79c4dd1.PNG"  title="hover text">
+  <img src="https://user-images.githubusercontent.com/63366100/115620104-6c293e80-a2fd-11eb-9a1d-a183cf236cf6.png"  title="hover text">
 </p>
 
  
